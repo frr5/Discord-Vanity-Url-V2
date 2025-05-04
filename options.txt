@@ -1,0 +1,5 @@
+Url Check Token: []
+Capturing Token: []
+Guildid: []
+Password: []
+WebhookURL: []
