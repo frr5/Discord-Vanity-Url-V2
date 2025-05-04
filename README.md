@@ -15,7 +15,7 @@ This is a simple tool that [insert a brief description of what your program does
 
 ## 📷 Screenshot
 
-![Program Screenshot](./screenshot.png)  
+![Program Screenshot](./image.png)  
 *This is how the program looks when running.*
 
 ---
