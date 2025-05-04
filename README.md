@@ -5,7 +5,7 @@
 
 
 > 📦 **Note:** The program file is included inside a `.rar` archive because the original `.exe` file exceeds GitHub's 25MB upload limit.
-
+![Program Screenshot](./error.png)  
 ---
 
 ## 📝 Description
